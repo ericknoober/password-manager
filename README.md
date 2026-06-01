@@ -29,4 +29,12 @@ https://mvnrepository.com/artifact/org.simpleframework/simple-xml/2.7.1
 https://mvnrepository.com/artifact/com.madgag.spongycastle/core/1.58.0.0
 Nbvcxz API for Password strength test
 https://github.com/GoSimpleLLC/nbvcxz
- */
+
+## Images
+
+<img width="1179" height="548" alt="image" src="https://github.com/user-attachments/assets/6d903bc1-992f-468f-a079-60dc95c56d01" />
+
+<img width="1194" height="566" alt="image" src="https://github.com/user-attachments/assets/d67c6615-c651-4946-8543-8db5c463fe1d" />
+
+<img width="1197" height="568" alt="image" src="https://github.com/user-attachments/assets/4051dcaa-18a2-48a3-a597-a41552f88bad" />
+
