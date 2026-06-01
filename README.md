@@ -1,10 +1,10 @@
-Title: Password Manager Program
-Description: This program allows a user to secure  their passwords for 
+## Title: Password Manager Program
+## Description: This program allows a user to secure  their passwords for 
 free in an offline database The program comes with multiple features 
 that allows them to generate passwords, test the strength of them, and 
 check if they have ever been leaked. This allows the user to 
 forget about passwords and copy them to their clipboard when needed.
-Features:
+## Features:
 Password manager
 Password generator
 Copy to clipboard
