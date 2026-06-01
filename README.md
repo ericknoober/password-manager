@@ -13,8 +13,8 @@ Breach Scanner
 Major Skills:
 OOP, JComponents
 Control statements
-Timers
-APIs
+,Timers
+,APIs
 
 ## APIs used
 JFreeChart used for the ring chart
